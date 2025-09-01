@@ -13,7 +13,8 @@ Saya ditugaskan untuk membuat HTML dengan kriteria berikut:
 - Link ke media sosial
 
 ## Preview
-![Preview Halaman](assets/preview.jpg)
+![Preview Halaman](assets/pre1.png)
+![Preview Halaman](assets/pre2.png)
 
 Kode dapat diakses melalui link berikut :  
 [https://github.com/wildankev/pweb-b-2/blob/main/index.html](https://github.com/wildankev/pweb-b-2/blob/main/index.html)
